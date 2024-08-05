@@ -1,0 +1,23 @@
+{
+  "name": "eduardoos.com",
+  "version": "1.0.0",
+  "description": "Eduardo Osteicoechea's official website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoOsteicoechea/eduardoos.com_nodejs.git"
+  },
+  "keywords": [
+    "Eduardo",
+    "Osteicoechea"
+  ],
+  "author": "Eduardo Osteicoechea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduardoOsteicoechea/eduardoos.com_nodejs/issues"
+  },
+  "homepage": "https://github.com/EduardoOsteicoechea/eduardoos.com_nodejs#readme"
+}
